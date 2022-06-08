@@ -1,0 +1,15 @@
+/* Dialog */
+.certificationDialog .certificationDialog_image {
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.certificationDialog .certificationDialog_description {
+  margin-top: 10px !important;
+  padding-top: 20px !important;
+  color: darkslategray !important;
+  font: smaller !important;
+  line-height: 22px !important;
+  white-space: pre-line !important;
+}

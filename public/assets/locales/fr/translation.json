@@ -1,0 +1,103 @@
+{
+    "name": "Nom",
+    "date_of_birth": "Date de Naissance",
+    "projects_header": "Projets",
+    "hire_me": "Recrutez Moi",
+    "about_me": "À PROPOS DE MOI",
+    "professional_academic": "EXPÉRIENCES PROFESSIONNELLES ET PARCOURS ACADÉMIQUE",
+    "professional":"Expériences Professionnelles",
+    "academic":"Parcours Académique",
+    "skills": "COMPÉTENCES",
+    "contact_form": "FORMULAIRE DE CONTACT",
+    "contact_infos": "INFORMATIONS DE CONTACT",
+    "submit": "Soumettre",
+    "achievements": "PROJETS REALISÉS",
+    "all":"Tous",
+    "certifs":"LISTE DES CERTIFICATIONS",
+    "job": "Ingénieur Informatique spécialisé en Systèmes d’Information et Génie Logiciel",
+    "about": "Fraîchement diplômé en Ingénierie Informatique Spécialisé dans les Systèmes d’Information et le Génie Logiciel (SIGL) au sein de l’Université Libre de Tunis, j'ai toujours été passionné par le domaine de l'informatique car il requière de grandes capacités d’analyse, de la rigueur et une forte flexibilité. A cela s’ajoute un certain goût pour le travail en équipe. \n \n En ce qui concerne le milieu professionnel, je compte actuellement environ 10 mois d'expérience dans les domaines tels que : \n - La conception et le développement de logiciels; \n- La gestion agile de projets. \nCette expérience fut acquise de par les différents stages que j'ai effectués et à l’issu desquels mes responsables ont toujours salué ma rapidité d’apprentissage, mes facultés d’adaptation et d’intégration mais également ma rigueur dans le respect des deadlines. \n \n Somme toute je me décrirais comme quelqu'un de dynamique et en quête permanente de nouveaux challenges. Ceux-ci me permettent d'accroître mes compétences pratiques tout en développant ma créativité.",
+    "experiences": [
+        {
+            "title": "Développeur Web Full Stack",
+            "date": "Bulldozer Tunisie | Février 2021 - Août 2021",
+            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution."
+        },
+        {
+            "title": "Technicien Web",
+            "date": "Media Concept Tunisie | Juillet 2020 - Septembre 2020",
+            "description": "Participation à la conception et au développement de plusieurs modules relatifs à l’ERP GENIETEX \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Analyse des besoins techniques et installation des technologies; \n- Implémentation des fonctionnalités."
+        }
+    ],
+    "educations": [
+        {
+            "title": "Diplôme D'ingénieur En Système D'informations Et Génie Logiciel (SIGL)",
+            "date": "Université libre de Tunis | 2018 - 2021",
+            "description": "Le génie informatique, ou l'ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, aussi bien d'un point de vue matériels que logiciels. A l’Université Libre de Tunis notre cursus est répartie sur 6 semestres dont trois en tronc commun, deux où chaque étudiant est amené à choisir une spécialité et le dernier est dédié au stage de fin d’études à l’issu duquel l’étudiant obtiendra son diplôme d’ingénieur."
+        },
+        {
+            "title": "Classes Préparatoires MPSI (Mathématiques, Physiques et Sciences de l'Ingénieur)",
+            "date": "Université libre de Tunis | 2016 - 2018",
+            "description": "Les classes préparatoires dont la durée est de deux ans permettent aux nouveaux bacheliers de se préparer aux trois années du cycle ingénieur."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xpense",
+            "caption": "Application web de gestion des notes de frais",
+            "description": "Projet de fin d'études FullStack consistant à la conception et à l'implémentation d'uneapplication web destinée aux entreprises souhaitant optimiser la gestion des dépenses et notesde frais de leurs employés et réduire le temps alloué à celle-ci.\n\nTechnologies : BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS,REACT) - Méthode de gestion de projets (KANBAN)"
+        },
+        {
+            "title": "TopTroc",
+            "caption": "Application Mobile d'échange d'objets",
+            "description": "Projet académique consistant à la conception et au développement d'une application mobileandroid permettant à ses utilisateurs de faire des échanges d'objets ou de se rendre service \n\nTechnologies : Application Mobile (Android, Firebase, REST Api), Interface d'administration Web (Springboot & Angular)."
+        },
+        {
+            "title": "FindLove",
+            "caption": "Application web de rencontre entre célibataires",
+            "description": "Projet académique FullStack consistant à la conception et au développement d'une application web destinée à aux célibataires désirant faire des rencontres avec d'autres célibataires; Rencontres qui pourront aboutir ou pas à des relations amoureuses! \n\n Technologies : BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)"
+        },
+        {
+            "title": "E-commerce",
+            "caption": "Plateforme d'E-commerce",
+            "description": "Projet scolaire en trio de conception et développement d'une plateforme de commercialisation en ligne de smartphones"
+        },
+        {
+            "title": "Restaurant",
+            "caption": "Appliaction .NET pour un restaurant en Ligne",
+            "description": "Application web developpée avec le Framework ASP.NET : \n- Intégration des templates Front; \n- Établissement de la connexion avec la base de données; \n- Établissement d'un système d'authentification. \n\nTechnologies utilisées : ASP.NET, Visual Studio "
+        },
+        {
+            "title": "FastJob",
+            "caption": "Réseau social professionnel",
+            "description": "Conception et développement d'un réseau social professionnel tunisien appelé “Fastjob” destiné uniquement aux informaticiens. Il permettra aux utilisateurs de trouver du travail, recruter des employés, ouvrir de nouvelles perspectives d’affaires, ou encore de disposer d’un carnet d’adresses en ligne accessible et à jour. \n\nFastjob devra disposer d’une manière globale des fonctionnalités telles que :\n• Un système d’inscription et d’authentification. \n• Un système de messagerie permettant aux entreprises recruteuses et aux candidats chercheurs d’emploi de discuter en temps réel pour faciliter le processus de recrutement. \n• Un espace candidat qui permettra aux utilisateurs recherchant des emplois de suivre les actualités sur les nouvelles offres et de postuler. \n• Un espace entreprise pour permettre aux recruteurs de gérer les CV, surveiller et contrôler l’ensemble du processus de recrutement mais également mettre en valeur leur société à travers la présentation de ses activités et de ses informations, l’affichage de son logo et le listage de ses annonces. \n\nTechnologies utilisées : Spring Boot, Spring Security, Spring Data, MySQL"
+        },
+        {
+            "title": "GENIETEX",
+            "caption": "Progiciel GENIETEX",
+            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution. \n\nTechnologies utilisées : VB.NET, ASP.NET, Visual Studio"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "CCNA 1",
+            "caption": "Cisco Certified Network Associate Routing and Switching 1",
+            "description": "La formation CISCO CCNA Routing and Switching Niveau 1 est le point de départ pour tous les professionnels amenés à travailler dans le domaine des réseaux. \nElle permet d’acquérir les connaissances et compétences de base pour installer, configurer et vérifier les réseaux locaux IPv4 et IPv6, et identifier les menaces élémentaires pour la sécurité.\nElle passe en revue l’architecture, la structure et les fonctions nécessaires pour prendre en charge aussi bien les opérations des grandes entreprises que celles de petites enseignes innovantes."
+        },
+        {
+            "title": "CCNA 2",
+            "caption": "Cisco Certified Network Associate Routing and Switching 2",
+            "description": "La formation CISCO CCNA Routing and Switching Niveau 2 permet d’acquérir les connaissances et compétences nécessaires pour installer, configurer, et dépanner les infrastructures réseaux d'entreprise. \nElle aborde les topologies redondantes, le dépannage des problèmes réseaux courants, la configuration des protocoles dynamiques de routage associés à l’IPv4 et IPv6, la gestion des périphériques et des services de bases."
+        },
+        {
+            "title": "TOEIC",
+            "caption": "Test of English for International Communication",
+            "description": "Les tests Test of English for International Communication (TOEIC) sont des certifications standardisées permettant d'évaluer le niveau d'anglais des locuteurs non anglophones à l'écrit et à l'oral. Ces tests, créés et gérés par un organisme sis aux États-Unis (l'ETS : Educational Testing Service), visent en particulier à évaluer les connaissances linguistiques du candidat dans un contexte professionnel, sans jamais pour autant entrer dans un jargon technique spécifique."
+        },
+        {
+            "title": "PMP",
+            "caption": "Project Management Professional",
+            "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute . L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets."
+        }
+    ],
+    "download_cv": "Télécharger CV"
+}

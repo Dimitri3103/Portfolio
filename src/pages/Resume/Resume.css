@@ -1,0 +1,80 @@
+/* About Me section */
+.aboutme_text {
+  color: darkslategray !important;
+  font: smaller !important;
+  line-height: 22px !important;
+  white-space: pre-line !important;
+}
+/* End of about me section */
+
+/* Experiences section */
+.resume_timeline .timeline_content .timeline_title {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
+.resume_timeline .timeline_content .timeline_date {
+  color: darkslategray;
+}
+.resume_timeline .timeline_content .timeline_description {
+  font-size: small;
+  margin-top: 6px;
+  color: gray;
+  line-height: 22px !important;
+  white-space: pre-line !important;
+}
+/* End of experiences section */
+
+/* Skills section */
+.skill {
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08) !important;
+  min-height: 186px;
+  height: 100%;
+}
+.skill .skill_title {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 35px !important;
+}
+.skill .skill_description {
+  display: flex;
+  align-items: center;
+  color: #909098;
+  font-weight: 400 !important;
+  line-height: 18px !important;
+}
+.skill .skill_description .timeline_dot {
+  border-color: var(--main-color) !important;
+  padding: 2px !important;
+  margin-right: 5px !important;
+}
+/* End of skills section */
+
+/* Contacts */
+.contactInfo_item {
+  font-size: 14px !important;
+  color: #787878;
+  line-height: 34px !important;
+}
+
+.contactInfo_item > span {
+  color: black;
+  font-weight: 500;
+}
+
+.contactInfos_socialsContainer {
+  margin-top: 25px;
+}
+
+.contactInfo_social > a > .MuiSvgIcon-root {
+  font-size: 16px !important;
+  margin-right: 10px;
+  color: black;
+}
+
+.btn_text {
+  text-transform: none !important;
+}
+
+/* End of contact section */
