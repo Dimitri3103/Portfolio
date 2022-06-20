@@ -73,7 +73,7 @@ const Header = (props) => {
                 </div>
                 <div className='d-flex justify-content-end'>
                     <div className="dropdown">
-                        <button className="btn btn-link dropdown-toggle"
+                        <button className="btn btn-link dropdown-toggle btn_laguage"
                             type="button"
                             id="dropdownMenuButton1"
                             data-bs-toggle="dropdown"

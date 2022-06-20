@@ -1,13 +1,16 @@
-import { Card, CardActionArea, CardContent, CardMedia, Dialog, DialogActions, DialogContent, DialogTitle, Grid, Grow, Tab, Tabs, Typography } from '@material-ui/core'
+import { Card, CardActionArea, CardContent, CardMedia, Dialog, DialogActions, DialogContent, DialogTitle, Grid, Grow, IconButton, Tab, Tabs, Typography } from '@material-ui/core'
 import React, { useState } from 'react'
 import ImageGallery from '../../components/Gallery/ImageGallery';
-import resumeData from '../../utils/resumeData'
 import './Portfolio.css';
 import { useTranslation } from "react-i18next";
+import GitHub from '@material-ui/icons/GitHub';
+import CloseIcon from '@material-ui/icons/Close';
 
 const Portfolio = () => {
 
     const { t } = useTranslation()
+
+    var projs = t('projects', { returnObjects: true });
 
     const [tabValue, setTabValue] = useState(t('all'))
     const [projectDialog, setProjectDialog] = useState(false)
@@ -31,7 +34,7 @@ const Portfolio = () => {
                         value={t('all')}
                         className={tabValue === t('all') ? "customTabs_item active" : "customTabs_item"}
                     />
-                    {[...new Set(resumeData.projects.map(item => item.tag))].map(((tag, index) => (<Tab label={tag}
+                    {[...new Set(projs.map(item => item.tag))].map(((tag, index) => (<Tab label={tag}
                         value={tag}
                         key={index}
                         className={tabValue === tag ? "customTabs_item active" : "customTabs_item"} />)))}
@@ -42,26 +45,29 @@ const Portfolio = () => {
             {/* Projects */}
             <Grid item xs={12}>
                 <Grid container spacing={3}>
-                    {resumeData.projects.map((project, index) => (
-                        <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
-                            {tabValue === project.tag || tabValue === t('all') ? (
-                                <Grow in timeout={1000}>
-                                    <Card className='customCard' onClick={() => setProjectDialog(project)}>
-                                        <CardActionArea>
-                                            <CardMedia className='customCard_image' image={project.images[0]} title={project.title} />
-                                            <CardContent>
-                                                <Typography variant={'body2'} className='customCard_title'>{project.title}</Typography>
-                                                <Typography variant='caption' className='customCard_caption'>{project.caption}</Typography>
-                                            </CardContent>
-                                        </CardActionArea>
-                                    </Card>
-                                </Grow>
+                    {projs &&
+                        projs.length > 0 &&
+                        projs.map((proj, index) => {
+                            return (
+                                <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
+                                    {tabValue === proj.tag || tabValue === t('all') ? (
+                                        <Grow in timeout={1000}>
+                                            <Card className='customCard' onClick={() => setProjectDialog(proj)}>
+                                                <CardActionArea>
+                                                    <CardMedia className='customCard_image' image={proj.images[0]} title={proj.title} />
+                                                    <CardContent>
+                                                        <Typography variant={'body2'} className='customCard_title'>{proj.title}</Typography>
+                                                        <Typography variant='caption' className='customCard_caption'>{proj.caption}</Typography>
+                                                    </CardContent>
+                                                </CardActionArea>
+                                            </Card>
+                                        </Grow>
 
-                            ) : null}
-                        </Grid>
-                    ))
+                                    ) : null}
 
-                    }
+                                </Grid>
+                            )
+                        })}
                 </Grid>
             </Grid>
 
@@ -71,10 +77,23 @@ const Portfolio = () => {
                 className="projectDialog"
                 maxWidth={"lg"}
                 fullWidth>
-                <DialogTitle onClose={() => setProjectDialog(false)}>{projectDialog.title}</DialogTitle>
+                <DialogTitle>
+                    {projectDialog.title}
+                    <IconButton onClick={() => setProjectDialog(false)} style={{
+                        position: "absolute",
+                        right: 8,
+                        top: 8,
+                        padding: 0,
+                        margin: 0,
+                        color: "#ffc500",
+                        "&:hover": { background: "transparent" },
+                    }}>
+                        <CloseIcon />
+                    </IconButton>
+                </DialogTitle>
                 <img src={projectDialog.image} alt="" className='projectDialog_image' />
                 <DialogContent style={{ height: "80vh" }}>
-                    <Typography variant='body2' className='projectDialog_description'>
+                    <Typography component={'span'} variant='body2' className='projectDialog_description'>
                         {projectDialog.images && (
                             <ImageGallery images={projectDialog.images} />
                         )}
@@ -88,7 +107,7 @@ const Portfolio = () => {
                             rel="noreferrer"
                             className='projectDialog_icon'
                             key={index}>
-                            {link.icon}
+                            <GitHub />
                         </a>
                     ))}
                 </DialogActions>

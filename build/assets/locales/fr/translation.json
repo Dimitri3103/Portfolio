@@ -1,0 +1,336 @@
+{
+    "name": "Nom",
+    "date_of_birth": "Date de Naissance",
+    "birthday": "31 Mars 1998",
+    "projects_header": "Projets",
+    "hire_me": "Recrutez Moi",
+    "about_me": "À PROPOS DE MOI",
+    "professional_academic": "EXPÉRIENCES PROFESSIONNELLES ET PARCOURS ACADÉMIQUE",
+    "professional": "Expériences Professionnelles",
+    "academic": "Parcours Académique",
+    "skills": "COMPÉTENCES",
+    "contact_form": "FORMULAIRE DE CONTACT",
+    "contact_infos": "INFORMATIONS DE CONTACT",
+    "submit": "Soumettre",
+    "achievements": "PROJETS REALISÉS",
+    "all": "Tous",
+    "certifs": "LISTE DES CERTIFICATIONS",
+    "job": "Ingénieur Informatique spécialisé en Systèmes d’Information et Génie Logiciel",
+    "about": "Fraîchement diplômé en Ingénierie Informatique Spécialisé dans les Systèmes d’Information et le Génie Logiciel (SIGL) au sein de l’Université Libre de Tunis, j'ai toujours été passionné par le domaine de l'informatique car il requière de grandes capacités d’analyse, de la rigueur et une forte flexibilité. A cela s’ajoute un certain goût pour le travail en équipe. \n \n En ce qui concerne le milieu professionnel, je compte actuellement environ 10 mois d'expérience dans les domaines tels que : \n - La conception et le développement de logiciels; \n- La gestion agile de projets. \nCette expérience fut acquise de par les différents stages que j'ai effectués et à l’issu desquels mes responsables ont toujours salué ma rapidité d’apprentissage, mes facultés d’adaptation et d’intégration mais également ma rigueur dans le respect des deadlines. \n \n Somme toute je me décrirais comme quelqu'un de dynamique et en quête permanente de nouveaux challenges. Ceux-ci me permettent d'accroître mes compétences pratiques tout en développant ma créativité.",
+    "experiences": [
+        {
+            "title": "Développeur Web Full Stack",
+            "date": "Bulldozer Tunisie | Février 2021 - Août 2021",
+            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution."
+        },
+        {
+            "title": "Technicien Web",
+            "date": "Media Concept Tunisie | Juillet 2020 - Septembre 2020",
+            "description": "Participation à la conception et au développement de plusieurs modules relatifs à l’ERP GENIETEX \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Analyse des besoins techniques et installation des technologies; \n- Implémentation des fonctionnalités."
+        }
+    ],
+    "educations": [
+        {
+            "title": "Diplôme D'ingénieur En Système D'informations Et Génie Logiciel (SIGL)",
+            "date": "Université libre de Tunis | 2018 - 2021",
+            "description": "Le génie informatique, ou l'ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, aussi bien d'un point de vue matériels que logiciels. A l’Université Libre de Tunis notre cursus est répartie sur 6 semestres dont trois en tronc commun, deux où chaque étudiant est amené à choisir une spécialité et le dernier est dédié au stage de fin d’études à l’issu duquel l’étudiant obtiendra son diplôme d’ingénieur."
+        },
+        {
+            "title": "Classes Préparatoires MPSI (Mathématiques, Physiques et Sciences de l'Ingénieur)",
+            "date": "Université libre de Tunis | 2016 - 2018",
+            "description": "Les classes préparatoires dont la durée est de deux ans permettent aux nouveaux bacheliers de se préparer aux trois années du cycle ingénieur."
+        }
+    ],
+    "projects": [
+        {
+            "tag": "WEB",
+            "title": "Xpense",
+            "caption": "Application web de gestion des notes de frais",
+            "description": "Projet de fin d'études FullStack consistant à la conception et à l'implémentation d'uneapplication web destinée aux entreprises souhaitant optimiser la gestion des dépenses et notesde frais de leurs employés et réduire le temps alloué à celle-ci.\n\nTechnologies : BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS,REACT) - Méthode de gestion de projets (KANBAN)",
+            "images": [
+                "/assets/xpense/Authentification.png",
+                "/assets/xpense/Inscription.png",
+                "/assets/xpense/Dashboard.png",
+                "/assets/xpense/Collaborateurs.png",
+                "/assets/xpense/Groupes.png",
+                "/assets/xpense/Taxes.png",
+                "/assets/xpense/Dépenses.png",
+                "/assets/xpense/Justificatif.png",
+                "/assets/xpense/ListeDépenses.png",
+                "/assets/xpense/Validation.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Xpense"
+                }
+            ]
+        },
+        {
+            "tag": "MOBILE",
+            "title": "TopTroc",
+            "caption": "Application Mobile d'échange d'objets",
+            "description": "Projet académique consistant à la conception et au développement d'une application mobileandroid permettant à ses utilisateurs de faire des échanges d'objets ou de se rendre service \n\nTechnologies : Application Mobile (Android, Firebase, REST Api), Interface d'administration Web (Springboot & Angular).",
+            "images": [
+                "/assets/TopTroc/1.PNG",
+                "/assets/TopTroc/2.PNG",
+                "/assets/TopTroc/3.PNG",
+                "/assets/TopTroc/4.PNG",
+                "/assets/TopTroc/5.PNG",
+                "/assets/TopTroc/6.PNG",
+                "/assets/TopTroc/7.PNG",
+                "/assets/TopTroc/8.PNG",
+                "/assets/TopTroc/9.PNG",
+                "/assets/TopTroc/10.PNG",
+                "/assets/TopTroc/11.PNG",
+                "/assets/TopTroc/12.PNG",
+                "/assets/TopTroc/13.PNG",
+                "/assets/TopTroc/14.PNG",
+                "/assets/TopTroc/15.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Android_App_TopTroc"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "FindLove",
+            "caption": "Application web de rencontre entre célibataires",
+            "description": "Projet académique FullStack consistant à la conception et au développement d'une application web destinée à aux célibataires désirant faire des rencontres avec d'autres célibataires; Rencontres qui pourront aboutir ou pas à des relations amoureuses! \n\n Technologies : BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
+            "images": [
+                "/assets/FindLove/1.PNG",
+                "/assets/FindLove/2.PNG",
+                "/assets/FindLove/3.PNG",
+                "/assets/FindLove/4.PNG",
+                "/assets/FindLove/5.PNG",
+                "/assets/FindLove/6.PNG",
+                "/assets/FindLove/7.PNG",
+                "/assets/FindLove/8.PNG",
+                "/assets/FindLove/9.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/FindLove"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "E-commerce",
+            "caption": "Plateforme d'E-commerce",
+            "description": "Projet scolaire en trio de conception et développement d'une plateforme de commercialisation en ligne de smartphones",
+            "images": [
+                "/assets/E_Commerce/1.PNG",
+                "/assets/E_Commerce/2.PNG",
+                "/assets/E_Commerce/3.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Projet_Site_web_E-Commerce"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "Restaurant",
+            "caption": "Appliaction .NET pour un restaurant en Ligne",
+            "description": "Application web developpée avec le Framework ASP.NET : \n- Intégration des templates Front; \n- Établissement de la connexion avec la base de données; \n- Établissement d'un système d'authentification. \n\nTechnologies utilisées : ASP.NET, Visual Studio ",
+            "images": [
+                "/assets/Restaurant/Accueil.PNG",
+                "/assets/Restaurant/Menu.PNG",
+                "/assets/Restaurant/Menu2.PNG",
+                "/assets/Restaurant/Menu3.PNG",
+                "/assets/Restaurant/Menu4.PNG",
+                "/assets/Restaurant/Menu5.PNG",
+                "/assets/Restaurant/Services.PNG",
+                "/assets/Restaurant/Services2.PNG",
+                "/assets/Restaurant/Blog.PNG",
+                "/assets/Restaurant/Blog2.PNG",
+                "/assets/Restaurant/About.PNG",
+                "/assets/Restaurant/Connexion.PNG",
+                "/assets/Restaurant/Contact.PNG",
+                "/assets/Restaurant/Footer.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Projet_.NET_Restaurant"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "FastJob",
+            "caption": "Réseau social professionnel",
+            "description": "Conception et développement d'un réseau social professionnel tunisien appelé “Fastjob” destiné uniquement aux informaticiens. Il permettra aux utilisateurs de trouver du travail, recruter des employés, ouvrir de nouvelles perspectives d’affaires, ou encore de disposer d’un carnet d’adresses en ligne accessible et à jour. \n\nFastjob devra disposer d’une manière globale des fonctionnalités telles que :\n• Un système d’inscription et d’authentification. \n• Un système de messagerie permettant aux entreprises recruteuses et aux candidats chercheurs d’emploi de discuter en temps réel pour faciliter le processus de recrutement. \n• Un espace candidat qui permettra aux utilisateurs recherchant des emplois de suivre les actualités sur les nouvelles offres et de postuler. \n• Un espace entreprise pour permettre aux recruteurs de gérer les CV, surveiller et contrôler l’ensemble du processus de recrutement mais également mettre en valeur leur société à travers la présentation de ses activités et de ses informations, l’affichage de son logo et le listage de ses annonces. \n\nTechnologies utilisées : Spring Boot, Spring Security, Spring Data, MySQL",
+            "images": [
+                "/assets/FastJob/1.png",
+                "/assets/FastJob/2.png",
+                "/assets/FastJob/3.png",
+                "/assets/FastJob/4.png",
+                "/assets/FastJob/5.png",
+                "/assets/FastJob/6.png",
+                "/assets/FastJob/7.png",
+                "/assets/FastJob/8.png",
+                "/assets/FastJob/9.png",
+                "/assets/FastJob/10.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Reseau_Social_Professionnel_FastJob"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "GENIETEX",
+            "caption": "Progiciel GENIETEX",
+            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution. \n\nTechnologies utilisées : VB.NET, ASP.NET, Visual Studio",
+            "images": [
+                "/assets/GENIETEX/Auth.jpg",
+                "/assets/GENIETEX/Dashboard.png",
+                "/assets/GENIETEX/Admin.png",
+                "/assets/GENIETEX/RH.png",
+                "/assets/GENIETEX/MvtEntree.png",
+                "/assets/GENIETEX/ListMvtsEntree.png",
+                "/assets/GENIETEX/MvtSortie.png",
+                "/assets/GENIETEX/ListMvtsSortie.png",
+                "/assets/GENIETEX/MvtTransfert.png",
+                "/assets/GENIETEX/ListMvtsTransfert.png",
+                "/assets/GENIETEX/EtatStock.png",
+                "/assets/GENIETEX/EtatStockMagasin.png",
+                "/assets/GENIETEX/ListMvtsPiecesMag.png",
+                "/assets/GENIETEX/ImpressionBon.png",
+                "/assets/GENIETEX/ImpressionEtatStock.png",
+                "/assets/GENIETEX/ImpressionEtatStockPiece.png",
+                "/assets/GENIETEX/ImpressionListMvtsPiecesMag.png",
+                "/assets/GENIETEX/Ateliers.png",
+                "/assets/GENIETEX/PieceRechange.png",
+                "/assets/GENIETEX/Maintenance.png",
+                "/assets/GENIETEX/Responsable.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Modules_GMAO_GPAO-ERP_GENIETEX-Stage_2020"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "CCNA 1",
+            "caption": "Cisco Certified Network Associate Routing and Switching 1",
+            "description": "La formation CISCO CCNA Routing and Switching Niveau 1 est le point de départ pour tous les professionnels amenés à travailler dans le domaine des réseaux. \nElle permet d’acquérir les connaissances et compétences de base pour installer, configurer et vérifier les réseaux locaux IPv4 et IPv6, et identifier les menaces élémentaires pour la sécurité.\nElle passe en revue l’architecture, la structure et les fonctions nécessaires pour prendre en charge aussi bien les opérations des grandes entreprises que celles de petites enseignes innovantes.",
+            "images": [
+                "/assets/Certifications/CCNA2.jpg",
+                "/assets/Certifications/LetterCCNA2.jpg"
+            ]
+        },
+        {
+            "title": "CCNA 2",
+            "caption": "Cisco Certified Network Associate Routing and Switching 2",
+            "description": "La formation CISCO CCNA Routing and Switching Niveau 2 permet d’acquérir les connaissances et compétences nécessaires pour installer, configurer, et dépanner les infrastructures réseaux d'entreprise. \nElle aborde les topologies redondantes, le dépannage des problèmes réseaux courants, la configuration des protocoles dynamiques de routage associés à l’IPv4 et IPv6, la gestion des périphériques et des services de bases.",
+            "images": [
+                "/assets/Certifications/CCNA2.jpg",
+                "/assets/Certifications/LetterCCNA2.jpg"
+            ]
+        },
+        {
+            "title": "TOEIC",
+            "caption": "Test of English for International Communication",
+            "description": "Les tests Test of English for International Communication (TOEIC) sont des certifications standardisées permettant d'évaluer le niveau d'anglais des locuteurs non anglophones à l'écrit et à l'oral. Ces tests, créés et gérés par un organisme sis aux États-Unis (l'ETS : Educational Testing Service), visent en particulier à évaluer les connaissances linguistiques du candidat dans un contexte professionnel, sans jamais pour autant entrer dans un jargon technique spécifique.",
+            "images": [
+                "/assets/Certifications/TOEIC.jpg"
+            ]
+        },
+        {
+            "title": "PMP",
+            "caption": "Project Management Professional",
+            "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute . L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets.",
+            "images": [
+                "/assets/Certifications/PMP.png"
+            ]
+        }
+    ],
+    "download_cv": "Télécharger CV",
+    "skills_list": [
+        {
+            "title": "FRONT-END",
+            "description": [
+                "REACT JS",
+                "NEXT JS",
+                "ANGULAR",
+                "VUE JS",
+                "JavaScript",
+                "TypeScript",
+                "Material UI",
+                "Bootstrap",
+                "HTML5",
+                "CSS3",
+                "C#",
+                "VB.NET"
+            ]
+        },
+        {
+            "title": "BACK-END",
+            "description": [
+                "Node JS",
+                "Express JS",
+                "Spring",
+                "Java",
+                "PHP",
+                "Python",
+                "ASP.NET",
+                "Laravel"
+            ]
+        },
+        {
+            "title": "BASE DE DONNÉES",
+            "description": [
+                "MySQL",
+                "SQLITE",
+                "Firebase",
+                "MongoDB",
+                "Apache CouchDB"
+            ]
+        },
+        {
+            "title": "DEVOPS",
+            "description": [
+                "Git",
+                "GitHub",
+                "GitLab",
+                "Docker"
+            ]
+        },
+        {
+            "title": "CMS",
+            "description": [
+                "Wordpress"
+            ]
+        },
+        {
+            "title": "GESTION DE PROJET",
+            "description": [
+                "SCRUM/Agile",
+                "Kanban"
+            ]
+        },
+        {
+            "title": "MOBILE",
+            "description": [
+                "React Native",
+                "Flutter",
+                "Android"
+            ]
+        },
+        {
+            "title": "LANGUES",
+            "description": [
+                "Français",
+                "Anglais",
+                "Espagnol"
+            ]
+        }
+    ]
+}

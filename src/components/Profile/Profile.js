@@ -8,7 +8,7 @@ import PersonOutlineOutlinedIcon from '@material-ui/icons/PersonOutlineOutlined'
 import GetAppIcon from '@material-ui/icons/GetApp';
 import TimelineContent from '@material-ui/lab/TimelineContent'
 import TimelineItem from '@material-ui/lab/TimelineItem'
-import MyCV from '../../assets/CV/CV_Simon_Dimitri_NGOUTOUGA_2021.pdf'
+import MyCV from '../../assets/CV/CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf'
 import { useTranslation } from "react-i18next";
 
 const CustomTimelineItem = ({ title, text, link }) => (
@@ -42,19 +42,16 @@ const Profile = () => {
             <div className="profile_information">
                 <CustomTimeline icon={<PersonOutlineOutlinedIcon />}>
                     <CustomTimelineItem title={t('name')} text={resumeData.name} />
-                    <CustomTimelineItem title={t('date_of_birth')} text={resumeData.birthday} />
+                    <CustomTimelineItem title={t('date_of_birth')} text={t('birthday')} />
                     <CustomTimelineItem title="Email" text={resumeData.email} />
-                    {/* <CustomTimelineItem title="Adresse" text={resumeData.address} />
-                    <CustomTimelineItem title="Téléphone" text={resumeData.phone} /> */}
                 </CustomTimeline>
                 <div className="button_container">
                     <CustomButton icon={<GetAppIcon />}>
-                        <a href={MyCV} download="CV_Simon_Dimitri_NGOUTOUGA_2021.pdf" >
+                        <a href={MyCV} download="CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf" >
                             <span className='btn_text'>{t('download_cv')}</span>
                         </a>
                     </CustomButton>
                 </div>
-
             </div>
         </div>
     )

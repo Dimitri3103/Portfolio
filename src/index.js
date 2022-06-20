@@ -27,19 +27,16 @@ i18n
     backend: {
       loadPath: '/assets/locales/{{lng}}/translation.json',
     },
-    react: { useSuspense: false }
+    react: { useSuspense: true }
   });
 
 
 ReactDOM.render(
-
-  <React.StrictMode>
-    <I18nextProvider i18n={i18n}>
-      <Suspense fallback='loading'>
-        <App />
-      </Suspense>
-    </I18nextProvider>
-  </React.StrictMode>,
+  <I18nextProvider i18n={i18n}>
+    <Suspense fallback='loading'>
+      <App />
+    </Suspense>
+  </I18nextProvider>,
   document.getElementById('root')
 );
 

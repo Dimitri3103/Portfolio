@@ -1,0 +1,336 @@
+{
+    "name": "Name",
+    "date_of_birth": "Date Of Birth",
+    "birthday": "March 31, 1998",
+    "projects_header": "Projects",
+    "hire_me": "Hire Me",
+    "about_me": "ABOUT ME",
+    "professional_academic": "PROFESSIONAL EXPERIENCES AND ACADEMIC BACKGROUND",
+    "professional": "Professional Experiences",
+    "academic": "Academic background",
+    "skills": "SKILLS",
+    "contact_form": "CONTACT FORM",
+    "contact_infos": "CONTACT INFORMATION",
+    "achievements": "FINALISED PROJECT",
+    "submit": "Submit",
+    "all": "All",
+    "certifs": "LIST OF CERTIFICATIONS",
+    "job": "Computer Engineer specialized in Information Systems and Software Engineering",
+    "about": "Freshly graduated in Computer Engineering Specialized in Information Systems and Software Engineering (SIGL) within the Free University of Tunis, I have always been passionate about the field of computer science because it requires great capacities of analysis, rigor and strong flexibility. Added to this is a certain taste for teamwork. \n \n Regarding the professional environment, I currently have about 10 months of experience in areas such as: \n - Software design and development; \n- Agile project management. \nThis experience was acquired through the various internships that I have completed and at the end of which my managers have always praised my speed of learning, my ability to adapt and integrate but also my rigor in respecting deadlines. . \n \n All in all, I would describe myself as someone dynamic and constantly looking for new challenges. These allow me to increase my practical skills while developing my creativity.",
+    "experiences": [
+        {
+            "title": "Full Stack Web Developer",
+            "date": "Bulldozer Tunisia | February 2021 - August 2021",
+            "description": "Design and Implementation of a web application for managing employee expenses: \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Solution design; \n- Implementation and deployment of the solution."
+        },
+        {
+            "title": "Web Technician",
+            "date": "Media Concept Tunisia | July 2020 - September 2020",
+            "description": "Participation in the design and development of several modules relating to the ERP GENIETEX \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Analysis of technical needs and installation of technologies; \n- Feature implementation."
+        }
+    ],
+    "educations": [
+        {
+            "title": "Engineering Degree in Information Systems and Software Engineering",
+            "date": "Université libre de Tunis | 2018 - 2021",
+            "description": "Computer engineering, or computer engineering, is a discipline that deals with the design, development, and manufacture of computer systems, both from a hardware and software perspective. At the Free University of Tunis, our curriculum is spread over 6 semesters, three of which are common core, two where each student is required to choose a specialty and the last is dedicated to the end-of-studies internship at the end of which the student get his engineering degree."
+        },
+        {
+            "title": "MPES Preparatory Classes (Mathematics, Physics and Engineering Sciences)",
+            "date": "Université libre de Tunis | 2016 - 2018",
+            "description": "The preparatory classes, which last two years, allow new baccalaureate holders to prepare for the three years of the engineering cycle."
+        }
+    ],
+    "projects": [
+        {
+            "tag": "WEB",
+            "title": "Xpense",
+            "caption": "Expense report management web application",
+            "description": "FullStack graduation project consisting of the design and implementation of a web application for companies wishing to optimize the management of their employees' expenses and expense reports and reduce the time allocated to it.\n\nTechnologies: BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS, REACT) - Project management method (KANBAN)",
+            "images": [
+                "/assets/xpense/Authentification.png",
+                "/assets/xpense/Inscription.png",
+                "/assets/xpense/Dashboard.png",
+                "/assets/xpense/Collaborateurs.png",
+                "/assets/xpense/Groupes.png",
+                "/assets/xpense/Taxes.png",
+                "/assets/xpense/Dépenses.png",
+                "/assets/xpense/Justificatif.png",
+                "/assets/xpense/ListeDépenses.png",
+                "/assets/xpense/Validation.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Xpense"
+                }
+            ]
+        },
+        {
+            "tag": "MOBILE",
+            "title": "TopTroc",
+            "caption": "Barter Mobile Application",
+            "description": "Academic project consisting in the design and development of a mobileandroid application allowing its users to exchange objects or to help each other \n\nTechnologies: Mobile Application (Android, Firebase, REST Api), Web Administration Interface  (Springboot & Angular).",
+            "images": [
+                "/assets/TopTroc/1.PNG",
+                "/assets/TopTroc/2.PNG",
+                "/assets/TopTroc/3.PNG",
+                "/assets/TopTroc/4.PNG",
+                "/assets/TopTroc/5.PNG",
+                "/assets/TopTroc/6.PNG",
+                "/assets/TopTroc/7.PNG",
+                "/assets/TopTroc/8.PNG",
+                "/assets/TopTroc/9.PNG",
+                "/assets/TopTroc/10.PNG",
+                "/assets/TopTroc/11.PNG",
+                "/assets/TopTroc/12.PNG",
+                "/assets/TopTroc/13.PNG",
+                "/assets/TopTroc/14.PNG",
+                "/assets/TopTroc/15.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Android_App_TopTroc"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "FindLove",
+            "caption": "Dating web app",
+            "description": "FullStack academic project consisting of the design and development of a web application for singles wishing to meet other singles; Meetings that may or may not lead to romantic relationships! \n\n Technologies: BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
+            "images": [
+                "/assets/FindLove/1.PNG",
+                "/assets/FindLove/2.PNG",
+                "/assets/FindLove/3.PNG",
+                "/assets/FindLove/4.PNG",
+                "/assets/FindLove/5.PNG",
+                "/assets/FindLove/6.PNG",
+                "/assets/FindLove/7.PNG",
+                "/assets/FindLove/8.PNG",
+                "/assets/FindLove/9.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/FindLove"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "E-commerce",
+            "caption": "E-commerce platform",
+            "description": "School project in trio design and development of an online marketing platform for smartphones",
+            "images": [
+                "/assets/E_Commerce/1.PNG",
+                "/assets/E_Commerce/2.PNG",
+                "/assets/E_Commerce/3.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Projet_Site_web_E-Commerce"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "Restaurant",
+            "caption": ".NET Application for an Online Restaurant",
+            "description": "Web application developed with the ASP.NET Framework: \n- Integration of Front templates; \n- Establishing the connection with the database; \n- Establishment of an authentication system. \n\nTechnologies used: ASP.NET, Visual Studio",
+            "images": [
+                "/assets/Restaurant/Accueil.PNG",
+                "/assets/Restaurant/Menu.PNG",
+                "/assets/Restaurant/Menu2.PNG",
+                "/assets/Restaurant/Menu3.PNG",
+                "/assets/Restaurant/Menu4.PNG",
+                "/assets/Restaurant/Menu5.PNG",
+                "/assets/Restaurant/Services.PNG",
+                "/assets/Restaurant/Services2.PNG",
+                "/assets/Restaurant/Blog.PNG",
+                "/assets/Restaurant/Blog2.PNG",
+                "/assets/Restaurant/About.PNG",
+                "/assets/Restaurant/Connexion.PNG",
+                "/assets/Restaurant/Contact.PNG",
+                "/assets/Restaurant/Footer.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Projet_.NET_Restaurant"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "FastJob",
+            "caption": "Professional social network",
+            "description": "Design and development of a Tunisian professional social network called “Fastjob” intended only for computer scientists. It will allow users to find work, recruit employees, open up new business prospects, or even have an accessible and up-to-date online address book. \n\nFastjob must have features such as:\n• A registration and authentication system. \n• A messaging system allowing recruiting companies and job seekers to chat in real time to facilitate the recruitment process. \n• A candidate area that will allow users looking for jobs to follow news on new offers and apply. \n• A company space to allow recruiters to manage CVs, monitor and control the entire recruitment process, but also to showcase their company through the presentation of its activities and information, the display of its logo and the listing of its advertisements. \n\nTechnologies used: Spring Boot, Spring Security, Spring Data, MySQL",
+            "images": [
+                "/assets/FastJob/1.png",
+                "/assets/FastJob/2.png",
+                "/assets/FastJob/3.png",
+                "/assets/FastJob/4.png",
+                "/assets/FastJob/5.png",
+                "/assets/FastJob/6.png",
+                "/assets/FastJob/7.png",
+                "/assets/FastJob/8.png",
+                "/assets/FastJob/9.png",
+                "/assets/FastJob/10.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Reseau_Social_Professionnel_FastJob"
+                }
+            ]
+        },
+        {
+            "tag": "WEB",
+            "title": "GENIETEX",
+            "caption": "GENIETEX software package",
+            "description": "Design and Implementation of a web application for managing employee expenses: \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Solution design; \n- Implementation and deployment of the solution. \n\nTechnologies used: VB.NET, ASP.NET, Visual Studio",
+            "images": [
+                "/assets/GENIETEX/Auth.jpg",
+                "/assets/GENIETEX/Dashboard.png",
+                "/assets/GENIETEX/Admin.png",
+                "/assets/GENIETEX/RH.png",
+                "/assets/GENIETEX/MvtEntree.png",
+                "/assets/GENIETEX/ListMvtsEntree.png",
+                "/assets/GENIETEX/MvtSortie.png",
+                "/assets/GENIETEX/ListMvtsSortie.png",
+                "/assets/GENIETEX/MvtTransfert.png",
+                "/assets/GENIETEX/ListMvtsTransfert.png",
+                "/assets/GENIETEX/EtatStock.png",
+                "/assets/GENIETEX/EtatStockMagasin.png",
+                "/assets/GENIETEX/ListMvtsPiecesMag.png",
+                "/assets/GENIETEX/ImpressionBon.png",
+                "/assets/GENIETEX/ImpressionEtatStock.png",
+                "/assets/GENIETEX/ImpressionEtatStockPiece.png",
+                "/assets/GENIETEX/ImpressionListMvtsPiecesMag.png",
+                "/assets/GENIETEX/Ateliers.png",
+                "/assets/GENIETEX/PieceRechange.png",
+                "/assets/GENIETEX/Maintenance.png",
+                "/assets/GENIETEX/Responsable.png"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/Modules_GMAO_GPAO-ERP_GENIETEX-Stage_2020"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "CCNA 1",
+            "caption": "Cisco Certified Network Associate Routing and Switching 1",
+            "description": "The CISCO CCNA Routing and Switching Level 1 training is the starting point for all professionals working in the field of networks. \nIt provides the basic knowledge and skills to install, configure and verify IPv4 and IPv6 LANs, and identify basic security threats.\nIt reviews the architecture, structure and functions needed to support the operations of large companies as well as those of small innovative brands.",
+            "images": [
+                "../../assets/Certifications/CCNA2.jpg",
+                "../../assets/Certifications/LetterCCNA2.jpg"
+            ]
+        },
+        {
+            "title": "CCNA 2",
+            "caption": "Cisco Certified Network Associate Routing and Switching 2",
+            "description": "The CISCO CCNA Routing and Switching Level 2 training provides the knowledge and skills necessary to install, configure, and troubleshoot corporate network infrastructures. \nIt covers redundant topologies, troubleshooting common network problems, configuring dynamic routing protocols associated with IPv4 and IPv6, managing devices and basic services.",
+            "images": [
+                "../../assets/Certifications/CCNA2.jpg",
+                "../../assets/Certifications/LetterCCNA2.jpg"
+            ]
+        },
+        {
+            "title": "TOEIC",
+            "caption": "Test of English for International Communication",
+            "description": "The Test of English for International Communication (TOEIC) tests are standardized certifications to assess the level of English of non-English speakers in writing and speaking. These tests, created and managed by an organization based in the United States (the ETS: Educational Testing Service), aim in particular to assess the linguistic knowledge of the candidate in a professional context, without ever entering into a specific technical jargon.",
+            "images": [
+                "../../assets/Certifications/TOEIC.jpg"
+            ]
+        },
+        {
+            "title": "PMP",
+            "caption": "Project Management Professional",
+            "description": "The PMP1 certification is an international certification in project management. This certification is issued by the Project Management Institute. The objective of this certification is to be able to formally assess the experience, knowledge and performance of project managers around the world and to have their profession recognized as a substantial activity for projects.",
+            "images": [
+                "../../assets/Certifications/PMP.png"
+            ]
+        }
+    ],
+    "download_cv": "Download CV",
+    "skills_list": [
+        {
+            "title": "FRONT-END",
+            "description": [
+                "REACT JS",
+                "NEXT JS",
+                "ANGULAR",
+                "VUE JS",
+                "JavaScript",
+                "TypeScript",
+                "Material UI",
+                "Bootstrap",
+                "HTML5",
+                "CSS3",
+                "C#",
+                "VB.NET"
+            ]
+        },
+        {
+            "title": "BACK-END",
+            "description": [
+                "Node JS",
+                "Express JS",
+                "Spring",
+                "Java",
+                "PHP",
+                "Python",
+                "ASP.NET",
+                "Laravel"
+            ]
+        },
+        {
+            "title": "DATABASE",
+            "description": [
+                "MySQL",
+                "SQLITE",
+                "Firebase",
+                "MongoDB",
+                "Apache CouchDB"
+            ]
+        },
+        {
+            "title": "DEVOPS",
+            "description": [
+                "Git",
+                "GitHub",
+                "GitLab",
+                "Docker"
+            ]
+        },
+        {
+            "title": "CMS",
+            "description": [
+                "Wordpress"
+            ]
+        },
+        {
+            "title": "PROJECT MANAGEMENT",
+            "description": [
+                "SCRUM/Agile",
+                "Kanban"
+            ]
+        },
+        {
+            "title": "MOBILE",
+            "description": [
+                "React Native",
+                "Flutter",
+                "Android"
+            ]
+        },
+        {
+            "title": "LANGUAGES",
+            "description": [
+                "French",
+                "English",
+                "Spanish"
+            ]
+        }
+    ]
+}

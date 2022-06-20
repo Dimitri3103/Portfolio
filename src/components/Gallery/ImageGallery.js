@@ -11,7 +11,7 @@ const ImageGallery = (props) => {
         }
     });
     return (
-        <div>
+        <div style={{ marginBottom: 15 }}>
             <Gallery items={imageList} showBullets={false} />
         </div>
     )
