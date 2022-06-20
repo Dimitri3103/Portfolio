@@ -214,6 +214,24 @@
                     "link": "https://github.com/Dimitri3103/Modules_GMAO_GPAO-ERP_GENIETEX-Stage_2020"
                 }
             ]
+        },
+        {
+            "tag": "WEB",
+            "title": "Restaurant Management App",
+            "caption": "Restaurant management application with Vue JS",
+            "description": "Simple and easy Vue JS restaurant management project from scratch. \n\nTechnologies used: Vue JS, Json Server",
+            "images": [
+                "/assets/restaurant-app/1.PNG",
+                "/assets/restaurant-app/2.PNG",
+                "/assets/restaurant-app/3.PNG",
+                "/assets/restaurant-app/4.PNG",
+                "/assets/restaurant-app/5.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/vuejs-restaurant-app"
+                }
+            ]
         }
     ],
     "certifications": [

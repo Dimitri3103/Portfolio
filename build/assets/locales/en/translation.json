@@ -16,24 +16,24 @@
     "all": "All",
     "certifs": "LIST OF CERTIFICATIONS",
     "job": "Computer Engineer specialized in Information Systems and Software Engineering",
-    "about": "Freshly graduated in Computer Engineering Specialized in Information Systems and Software Engineering (SIGL) within the Free University of Tunis, I have always been passionate about the field of computer science because it requires great capacities of analysis, rigor and strong flexibility. Added to this is a certain taste for teamwork. \n \n Regarding the professional environment, I currently have about 10 months of experience in areas such as: \n - Software design and development; \n- Agile project management. \nThis experience was acquired through the various internships that I have completed and at the end of which my managers have always praised my speed of learning, my ability to adapt and integrate but also my rigor in respecting deadlines. . \n \n All in all, I would describe myself as someone dynamic and constantly looking for new challenges. These allow me to increase my practical skills while developing my creativity.",
+    "about": "Freshly graduated in Computer Engineering in the specialties of Information Systems and Software Engineering (SIGL) at << Université Libre de Tunis >>, I have always been passionate about computer science because it requires great abilities to analysis, rigor and strong flexibility. Added to this is a certain taste for teamwork. \n \n I currently have about 10 months of professional experience in areas such as: \n - Design and the development of web and mobile applications;\n- Agile project management.\nThis experience was acquired through the various internships that I completed and at the end of which my managers have always praised my learning skills, my faculties of adaptation and integration but also my rigor in respecting deadlines. \n \n Ultimately, I would describe myself as someone dynamic and constantly looking for new challenges that allow me to increase my practical skills while developing my creativity.",
     "experiences": [
         {
             "title": "Full Stack Web Developer",
             "date": "Bulldozer Tunisia | February 2021 - August 2021",
-            "description": "Design and Implementation of a web application for managing employee expenses: \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Solution design; \n- Implementation and deployment of the solution."
+            "description": "Design and Implementation of a web application for managing employee expense reports; Our work consisted of: \n - Analyzing the functional needs and writing the technical specifications relating to the solution to be implemented; \n- Establishing the Design of the solution; \n- Implement and Deploy the solution."
         },
         {
             "title": "Web Technician",
             "date": "Media Concept Tunisia | July 2020 - September 2020",
-            "description": "Participation in the design and development of several modules relating to the ERP GENIETEX \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Analysis of technical needs and installation of technologies; \n- Feature implementation."
+            "description": "Participation in the design and development of several modules relating to the GENIETEX software package initially developed by the company. Our work consisted of: \n - Analyzing and taking control of the software package and its modules already in place; \n- Implementing the inventory management and CMMS (Computer Aided Maintenance Management) modules."
         }
     ],
     "educations": [
         {
             "title": "Engineering Degree in Information Systems and Software Engineering",
             "date": "Université libre de Tunis | 2018 - 2021",
-            "description": "Computer engineering, or computer engineering, is a discipline that deals with the design, development, and manufacture of computer systems, both from a hardware and software perspective. At the Free University of Tunis, our curriculum is spread over 6 semesters, three of which are common core, two where each student is required to choose a specialty and the last is dedicated to the end-of-studies internship at the end of which the student get his engineering degree."
+            "description": "Computer engineering, is a discipline that consists in designing, develop and manufacture of computer systems, both from a hardware and software point of view. At the << Université Libre de Tunis >> our course is spread over 6 semesters, three of which are common core, two where each student is required to choose a specialty and the last is dedicated to the end-of-study internship at the end of which the student will obtain his engineering degree."
         },
         {
             "title": "MPES Preparatory Classes (Mathematics, Physics and Engineering Sciences)",
@@ -46,7 +46,7 @@
             "tag": "WEB",
             "title": "Xpense",
             "caption": "Expense report management web application",
-            "description": "FullStack graduation project consisting of the design and implementation of a web application for companies wishing to optimize the management of their employees' expenses and expense reports and reduce the time allocated to it.\n\nTechnologies: BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS, REACT) - Project management method (KANBAN)",
+            "description": "FullStack graduation project consisting of the design and implementation of a web application for companies wishing to optimize the management of their employees expenses and expense reports and reduce the time allocated to it.\n\nTechnologies: BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS, REACT) - Project management (KANBAN)",
             "images": [
                 "/assets/xpense/Authentification.png",
                 "/assets/xpense/Inscription.png",
@@ -69,7 +69,7 @@
             "tag": "MOBILE",
             "title": "TopTroc",
             "caption": "Barter Mobile Application",
-            "description": "Academic project consisting in the design and development of a mobileandroid application allowing its users to exchange objects or to help each other \n\nTechnologies: Mobile Application (Android, Firebase, REST Api), Web Administration Interface  (Springboot & Angular).",
+            "description": "Academic project consisting in the design and development of a mobile application under Android allowing its users to barter objects or services. \n\nTechnologies: Mobile Application (Android, Firebase, REST Api), Web administration interface (Springboot & Angular).",
             "images": [
                 "/assets/TopTroc/1.PNG",
                 "/assets/TopTroc/2.PNG",
@@ -97,7 +97,7 @@
             "tag": "WEB",
             "title": "FindLove",
             "caption": "Dating web app",
-            "description": "FullStack academic project consisting of the design and development of a web application for singles wishing to meet other singles; Meetings that may or may not lead to romantic relationships! \n\n Technologies: BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
+            "description": "FullStack academic project consisting of the design and development of a web application for people wishing to meet each other and eventually find love! \n\n Technologies: BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
             "images": [
                 "/assets/FindLove/1.PNG",
                 "/assets/FindLove/2.PNG",
@@ -119,7 +119,7 @@
             "tag": "WEB",
             "title": "E-commerce",
             "caption": "E-commerce platform",
-            "description": "School project in trio design and development of an online marketing platform for smartphones",
+            "description": "School project consisting of the design and development of an online smartphone commerce platform",
             "images": [
                 "/assets/E_Commerce/1.PNG",
                 "/assets/E_Commerce/2.PNG",
@@ -185,7 +185,7 @@
             "tag": "WEB",
             "title": "GENIETEX",
             "caption": "GENIETEX software package",
-            "description": "Design and Implementation of a web application for managing employee expenses: \n - Analysis of functional needs and drafting of technical specifications relating to the solution to be implemented; \n- Solution design; \n- Implementation and deployment of the solution. \n\nTechnologies used: VB.NET, ASP.NET, Visual Studio",
+            "description": "Design and Development of inventory management and CMMS (Computer Aided Maintenance Management) modules for the GENIETEX software package. \n\nTechnologies used: VB.NET, ASP.NET, Visual Studio",
             "images": [
                 "/assets/GENIETEX/Auth.jpg",
                 "/assets/GENIETEX/Dashboard.png",
@@ -214,6 +214,24 @@
                     "link": "https://github.com/Dimitri3103/Modules_GMAO_GPAO-ERP_GENIETEX-Stage_2020"
                 }
             ]
+        },
+        {
+            "tag": "WEB",
+            "title": "Restaurant Management App",
+            "caption": "Restaurant management application with Vue JS",
+            "description": "Simple and easy Vue JS restaurant management project from scratch. \n\nTechnologies used: Vue JS, Json Server",
+            "images": [
+                "/assets/restaurant-app/1.PNG",
+                "/assets/restaurant-app/2.PNG",
+                "/assets/restaurant-app/3.PNG",
+                "/assets/restaurant-app/4.PNG",
+                "/assets/restaurant-app/5.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/vuejs-restaurant-app"
+                }
+            ]
         }
     ],
     "certifications": [
@@ -238,7 +256,7 @@
         {
             "title": "TOEIC",
             "caption": "Test of English for International Communication",
-            "description": "The Test of English for International Communication (TOEIC) tests are standardized certifications to assess the level of English of non-English speakers in writing and speaking. These tests, created and managed by an organization based in the United States (the ETS: Educational Testing Service), aim in particular to assess the linguistic knowledge of the candidate in a professional context, without ever entering into a specific technical jargon.",
+            "description": "The TOEIC (Test of English for International Communication) is a standardized certification to assess the level of English of non-English speakers in writing and speaking. This test, created and managed by an organization based in the United States States (the ETS: Educational Testing Service), aims in particular to assess the linguistic knowledge of the candidate in a professional context, without ever entering into a specific technical jargon.",
             "images": [
                 "../../assets/Certifications/TOEIC.jpg"
             ]

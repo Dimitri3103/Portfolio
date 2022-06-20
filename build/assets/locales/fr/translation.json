@@ -16,24 +16,24 @@
     "all": "Tous",
     "certifs": "LISTE DES CERTIFICATIONS",
     "job": "Ingénieur Informatique spécialisé en Systèmes d’Information et Génie Logiciel",
-    "about": "Fraîchement diplômé en Ingénierie Informatique Spécialisé dans les Systèmes d’Information et le Génie Logiciel (SIGL) au sein de l’Université Libre de Tunis, j'ai toujours été passionné par le domaine de l'informatique car il requière de grandes capacités d’analyse, de la rigueur et une forte flexibilité. A cela s’ajoute un certain goût pour le travail en équipe. \n \n En ce qui concerne le milieu professionnel, je compte actuellement environ 10 mois d'expérience dans les domaines tels que : \n - La conception et le développement de logiciels; \n- La gestion agile de projets. \nCette expérience fut acquise de par les différents stages que j'ai effectués et à l’issu desquels mes responsables ont toujours salué ma rapidité d’apprentissage, mes facultés d’adaptation et d’intégration mais également ma rigueur dans le respect des deadlines. \n \n Somme toute je me décrirais comme quelqu'un de dynamique et en quête permanente de nouveaux challenges. Ceux-ci me permettent d'accroître mes compétences pratiques tout en développant ma créativité.",
+    "about": "Fraîchement diplômé en Ingénierie Informatique dans les spécialités Systèmes d’Information et le Génie Logiciel (SIGL) au sein de l’Université Libre de Tunis, j'ai toujours été passionné par le domaine de l'informatique car il requière de grandes capacités d’analyse, de la rigueur et une forte flexibilité. A cela s’ajoute un certain goût pour le travail en équipe. \n \n Je compte actuellement environ 10 mois d'expérience professionnelle dans les domaines tels que : \n - La conception et le développement d'applications web et mobiles; \n- La gestion agile de projets. \nCette expérience fut acquise de par les différents stages que j'ai effectués et à l’issu desquels mes responsables ont toujours salué ma rapidité d’apprentissage, mes facultés d’adaptation et d’intégration mais également ma rigueur dans le respect des deadlines. \n \n Somme toute je me décrirais comme quelqu'un de dynamique et en quête permanente de nouveaux challenges qui me permettent d'accroître mes compétences pratiques tout en développant ma créativité.",
     "experiences": [
         {
             "title": "Développeur Web Full Stack",
             "date": "Bulldozer Tunisie | Février 2021 - Août 2021",
-            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution."
+            "description": "Conception et Implémentation d'une application web de gestion des notes de frais des employés; Notre travail consistait à : \n - Analyser les besoins fonctionnels et rédiger les spécifications techniques relatives à la solution à mettre en place; \n- Établir la Conception de la solution; \n- Implémenter et Déploier la solution."
         },
         {
             "title": "Technicien Web",
             "date": "Media Concept Tunisie | Juillet 2020 - Septembre 2020",
-            "description": "Participation à la conception et au développement de plusieurs modules relatifs à l’ERP GENIETEX \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Analyse des besoins techniques et installation des technologies; \n- Implémentation des fonctionnalités."
+            "description": "Participation à la Conception et au Développement de plusieurs modules relatifs au Progiciel GENIETEX initialement développé par l'entreprise. Notre travail consistait à : \n - Analyser et prendre en main le Progiciel et ses modules déjà mis en place; \n- Implémenter les modules de gestion de stock et de GMAO (Gestion de la Maintenance Assistée par Ordinateur)."
         }
     ],
     "educations": [
         {
             "title": "Diplôme D'ingénieur En Système D'informations Et Génie Logiciel (SIGL)",
             "date": "Université libre de Tunis | 2018 - 2021",
-            "description": "Le génie informatique, ou l'ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, aussi bien d'un point de vue matériels que logiciels. A l’Université Libre de Tunis notre cursus est répartie sur 6 semestres dont trois en tronc commun, deux où chaque étudiant est amené à choisir une spécialité et le dernier est dédié au stage de fin d’études à l’issu duquel l’étudiant obtiendra son diplôme d’ingénieur."
+            "description": "Le génie informatique, ou l'ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, aussi bien d'un point de vue matériels que logiciels. A l’Université Libre de Tunis notre cursus est répartie sur 6 semestres dont trois en tronc commun, deux où chaque étudiant est amené à choisir une spécialité et le dernier est dédié au stage de fin d’études à l’issue duquel l’étudiant obtiendra son diplôme d’ingénieur."
         },
         {
             "title": "Classes Préparatoires MPSI (Mathématiques, Physiques et Sciences de l'Ingénieur)",
@@ -46,7 +46,7 @@
             "tag": "WEB",
             "title": "Xpense",
             "caption": "Application web de gestion des notes de frais",
-            "description": "Projet de fin d'études FullStack consistant à la conception et à l'implémentation d'uneapplication web destinée aux entreprises souhaitant optimiser la gestion des dépenses et notesde frais de leurs employés et réduire le temps alloué à celle-ci.\n\nTechnologies : BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS,REACT) - Méthode de gestion de projets (KANBAN)",
+            "description": "Projet de fin d'études FullStack consistant à la conception et à l'implémentation d'une application web destinée aux entreprises souhaitant optimiser la gestion des dépenses et notes de frais de leurs employés et réduire le temps alloué à celle-ci.\n\nTechnologies : BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS,REACT) - Méthode de gestion de projets (KANBAN)",
             "images": [
                 "/assets/xpense/Authentification.png",
                 "/assets/xpense/Inscription.png",
@@ -69,7 +69,7 @@
             "tag": "MOBILE",
             "title": "TopTroc",
             "caption": "Application Mobile d'échange d'objets",
-            "description": "Projet académique consistant à la conception et au développement d'une application mobileandroid permettant à ses utilisateurs de faire des échanges d'objets ou de se rendre service \n\nTechnologies : Application Mobile (Android, Firebase, REST Api), Interface d'administration Web (Springboot & Angular).",
+            "description": "Projet académique consistant à la conception et au développement d'une application mobile sous Android permettant à ses utilisateurs de troquer des objets ou des services. \n\nTechnologies : Application Mobile (Android, Firebase, REST Api), Interface d'administration Web (Springboot & Angular).",
             "images": [
                 "/assets/TopTroc/1.PNG",
                 "/assets/TopTroc/2.PNG",
@@ -96,7 +96,7 @@
         {
             "tag": "WEB",
             "title": "FindLove",
-            "caption": "Application web de rencontre entre célibataires",
+            "caption": "Application Web de rencontres",
             "description": "Projet académique FullStack consistant à la conception et au développement d'une application web destinée à aux célibataires désirant faire des rencontres avec d'autres célibataires; Rencontres qui pourront aboutir ou pas à des relations amoureuses! \n\n Technologies : BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
             "images": [
                 "/assets/FindLove/1.PNG",
@@ -119,7 +119,7 @@
             "tag": "WEB",
             "title": "E-commerce",
             "caption": "Plateforme d'E-commerce",
-            "description": "Projet scolaire en trio de conception et développement d'une plateforme de commercialisation en ligne de smartphones",
+            "description": "Projet scolaire consistant en la conception et le développement d'une plateforme de commerce de smartphonesde smartphones en ligne",
             "images": [
                 "/assets/E_Commerce/1.PNG",
                 "/assets/E_Commerce/2.PNG",
@@ -135,7 +135,7 @@
             "tag": "WEB",
             "title": "Restaurant",
             "caption": "Appliaction .NET pour un restaurant en Ligne",
-            "description": "Application web developpée avec le Framework ASP.NET : \n- Intégration des templates Front; \n- Établissement de la connexion avec la base de données; \n- Établissement d'un système d'authentification. \n\nTechnologies utilisées : ASP.NET, Visual Studio ",
+            "description": "Application Web developpée avec le Framework ASP.NET : \n- Intégration des templates Front; \n- Établissement de la connexion avec la base de données; \n- Établissement d'un système d'authentification. \n\nTechnologies utilisées : ASP.NET, Visual Studio ",
             "images": [
                 "/assets/Restaurant/Accueil.PNG",
                 "/assets/Restaurant/Menu.PNG",
@@ -185,7 +185,7 @@
             "tag": "WEB",
             "title": "GENIETEX",
             "caption": "Progiciel GENIETEX",
-            "description": "Conception et Implémentation d'une application web de gestion des dépenses des employés : \n - Analyse des besoins fonctionnels et rédaction des spécifications techniques relatives à la solution à mettre en place; \n- Conception de la solution; \n- Implémentation et déploiement de la solution. \n\nTechnologies utilisées : VB.NET, ASP.NET, Visual Studio",
+            "description": "Conception et au Développement des modules de gestion de stock et de GMAO (Gestion de la Maintenance Assistée par Ordinateur) pour le Progiciel GENIETEX. \n\nTechnologies utilisées : VB.NET, ASP.NET, Visual Studio",
             "images": [
                 "/assets/GENIETEX/Auth.jpg",
                 "/assets/GENIETEX/Dashboard.png",
@@ -214,6 +214,24 @@
                     "link": "https://github.com/Dimitri3103/Modules_GMAO_GPAO-ERP_GENIETEX-Stage_2020"
                 }
             ]
+        },
+        {
+            "tag": "WEB",
+            "title": "Application de gestion de restaurant",
+            "caption": "Application de gestion de restaurant avec Vue JS",
+            "description": "Projet Vue JS simple et facile from scratch de gestion de restaurant. \n\nTechnologies utilisées : Vue JS, Json Server",
+            "images": [
+                "/assets/restaurant-app/1.PNG",
+                "/assets/restaurant-app/2.PNG",
+                "/assets/restaurant-app/3.PNG",
+                "/assets/restaurant-app/4.PNG",
+                "/assets/restaurant-app/5.PNG"
+            ],
+            "links": [
+                {
+                    "link": "https://github.com/Dimitri3103/vuejs-restaurant-app"
+                }
+            ]
         }
     ],
     "certifications": [
@@ -238,7 +256,7 @@
         {
             "title": "TOEIC",
             "caption": "Test of English for International Communication",
-            "description": "Les tests Test of English for International Communication (TOEIC) sont des certifications standardisées permettant d'évaluer le niveau d'anglais des locuteurs non anglophones à l'écrit et à l'oral. Ces tests, créés et gérés par un organisme sis aux États-Unis (l'ETS : Educational Testing Service), visent en particulier à évaluer les connaissances linguistiques du candidat dans un contexte professionnel, sans jamais pour autant entrer dans un jargon technique spécifique.",
+            "description": "Le TOEIC (Test of English for International Communication) est une certification standardisée permettant d'évaluer le niveau d'anglais des locuteurs non anglophones à l'écrit et à l'oral. Ce test, créé et géré par un organisme sis aux États-Unis (l'ETS : Educational Testing Service), vise en particulier à évaluer les connaissances linguistiques du candidat dans un contexte professionnel, sans jamais pour autant entrer dans un jargon technique spécifique.",
             "images": [
                 "/assets/Certifications/TOEIC.jpg"
             ]
@@ -246,7 +264,7 @@
         {
             "title": "PMP",
             "caption": "Project Management Professional",
-            "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute . L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets.",
+            "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute. L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets.",
             "images": [
                 "/assets/Certifications/PMP.png"
             ]
