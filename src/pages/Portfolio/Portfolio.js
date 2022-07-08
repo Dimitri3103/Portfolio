@@ -78,7 +78,7 @@ const Portfolio = () => {
                 maxWidth={"lg"}
                 fullWidth>
                 <DialogTitle>
-                    {projectDialog.title}
+                    {projectDialog.modalTitle}
                     <IconButton onClick={() => setProjectDialog(false)} style={{
                         position: "absolute",
                         right: 8,

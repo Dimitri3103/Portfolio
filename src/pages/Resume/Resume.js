@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useRef } from 'react'
 import './Resume.css'
 import { Grid, Paper, TextField, Typography } from '@material-ui/core'
 import resumeData from '../../utils/resumeData'
@@ -10,12 +10,27 @@ import TimelineContent from '@material-ui/lab/TimelineContent'
 import TimelineDot from '@material-ui/lab/TimelineDot';
 import CustomButton from '../../components/Button/Button'
 import { useTranslation } from "react-i18next";
+import emailjs from '@emailjs/browser';
 
 const Resume = () => {
     const { t } = useTranslation()
     var exps = t('experiences', { returnObjects: true });
     var educs = t('educations', { returnObjects: true });
     var skills = t('skills_list', { returnObjects: true });
+
+    const form = useRef();
+
+    const sendEmail = (e) => {
+        e.preventDefault();
+
+        emailjs.sendForm('gmail', 'template_5hmb9ii', form.current, 'tjTOf5hPy4Ghlntl2')
+            .then((result) => {
+                console.log(result.text);
+            }, (error) => {
+                console.log(error.text);
+            });
+        form.current.reset()
+    };
     return (
         <>
             {/* About Me */}
@@ -127,20 +142,25 @@ const Resume = () => {
 
 
                         <Grid item xs={12}>
-                            <Grid container spacing={3}>
-                                <Grid item xs={12} sm={6}>
-                                    <TextField fullWidth name='name' label={t('name')} />
+                            <form ref={form} onSubmit={sendEmail}>
+                                <Grid container spacing={3}>
+                                    <Grid item xs={12}>
+                                        <TextField fullWidth name='subject' label={t('object')} />
+                                    </Grid>
+                                    <Grid item xs={12} sm={6}>
+                                        <TextField fullWidth name='name' label={t('name')} />
+                                    </Grid>
+                                    <Grid item xs={12} sm={6}>
+                                        <TextField fullWidth name='email' label='E-mail' />
+                                    </Grid>
+                                    <Grid item xs={12}>
+                                        <TextField fullWidth name='message' label='Message' multiline rows={4} />
+                                    </Grid>
+                                    <Grid item xs={12}>
+                                        <CustomButton><span className='btn_text'>{t('submit')}</span></CustomButton>
+                                    </Grid>
                                 </Grid>
-                                <Grid item xs={12} sm={6}>
-                                    <TextField fullWidth name='email' label='E-mail' />
-                                </Grid>
-                                <Grid item xs={12}>
-                                    <TextField fullWidth name='message' label='Message' multiline rows={4} />
-                                </Grid>
-                                <Grid item xs={12}>
-                                    <CustomButton><span className='btn_text'>{t('submit')}</span></CustomButton>
-                                </Grid>
-                            </Grid>
+                            </form>
                         </Grid>
                     </Grid>
                 </Grid>

@@ -1,5 +1,6 @@
 {
     "name": "Name",
+    "object": "Object",
     "date_of_birth": "Date Of Birth",
     "birthday": "March 31, 1998",
     "projects_header": "Projects",
@@ -45,7 +46,8 @@
         {
             "tag": "WEB",
             "title": "Xpense",
-            "caption": "Expense report management web application",
+            "caption": "#ReactJS, #NextJS, #ExpressJS, #CouchDB, #Firebase",
+            "modalTitle": "Xpense - Expense report management web application",
             "description": "FullStack graduation project consisting of the design and implementation of a web application for companies wishing to optimize the management of their employees expenses and expense reports and reduce the time allocated to it.\n\nTechnologies: BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS, REACT) - Project management (KANBAN)",
             "images": [
                 "/assets/xpense/Authentification.png",
@@ -68,7 +70,8 @@
         {
             "tag": "MOBILE",
             "title": "TopTroc",
-            "caption": "Barter Mobile Application",
+            "caption": "#Android, #Firebase, #RESTAPI, #Springboot, #Angular",
+            "modalTitle": "TopTroc - Barter Mobile Application",
             "description": "Academic project consisting in the design and development of a mobile application under Android allowing its users to barter objects or services. \n\nTechnologies: Mobile Application (Android, Firebase, REST Api), Web administration interface (Springboot & Angular).",
             "images": [
                 "/assets/TopTroc/1.PNG",
@@ -96,7 +99,8 @@
         {
             "tag": "WEB",
             "title": "FindLove",
-            "caption": "Dating web app",
+            "caption": "#Angular, #MongoDB, #ExpressJS, #NodeJS",
+            "modalTitle": "FindLove - Dating web app",
             "description": "FullStack academic project consisting of the design and development of a web application for people wishing to meet each other and eventually find love! \n\n Technologies: BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
             "images": [
                 "/assets/FindLove/1.PNG",
@@ -118,7 +122,8 @@
         {
             "tag": "WEB",
             "title": "E-commerce",
-            "caption": "E-commerce platform",
+            "caption": "#PHP, #Javascript, #PHPMailer",
+            "modalTitle": "E-commerce platform",
             "description": "School project consisting of the design and development of an online smartphone commerce platform",
             "images": [
                 "/assets/E_Commerce/1.PNG",
@@ -134,7 +139,8 @@
         {
             "tag": "WEB",
             "title": "Restaurant",
-            "caption": ".NET Application for an Online Restaurant",
+            "caption": "ASP.NET, #VisualStudio, #CSharp",
+            "modalTitle": ".NET Application for an Online Restaurant",
             "description": "Web application developed with the ASP.NET Framework: \n- Integration of Front templates; \n- Establishing the connection with the database; \n- Establishment of an authentication system. \n\nTechnologies used: ASP.NET, Visual Studio",
             "images": [
                 "/assets/Restaurant/Accueil.PNG",
@@ -161,7 +167,8 @@
         {
             "tag": "WEB",
             "title": "FastJob",
-            "caption": "Professional social network",
+            "caption": "#Spring Boot, #SpringSecurity, #SpringData, #MySQL",
+            "modalTitle": "FastJob - Professional social network",
             "description": "Design and development of a Tunisian professional social network called “Fastjob” intended only for computer scientists. It will allow users to find work, recruit employees, open up new business prospects, or even have an accessible and up-to-date online address book. \n\nFastjob must have features such as:\n• A registration and authentication system. \n• A messaging system allowing recruiting companies and job seekers to chat in real time to facilitate the recruitment process. \n• A candidate area that will allow users looking for jobs to follow news on new offers and apply. \n• A company space to allow recruiters to manage CVs, monitor and control the entire recruitment process, but also to showcase their company through the presentation of its activities and information, the display of its logo and the listing of its advertisements. \n\nTechnologies used: Spring Boot, Spring Security, Spring Data, MySQL",
             "images": [
                 "/assets/FastJob/1.png",
@@ -184,7 +191,8 @@
         {
             "tag": "WEB",
             "title": "GENIETEX",
-            "caption": "GENIETEX software package",
+            "caption": "VB.NET, ASP.NET, #VisualStudio, #CSharp",
+            "modalTitle": "GENIETEX software package",
             "description": "Design and Development of inventory management and CMMS (Computer Aided Maintenance Management) modules for the GENIETEX software package. \n\nTechnologies used: VB.NET, ASP.NET, Visual Studio",
             "images": [
                 "/assets/GENIETEX/Auth.jpg",
@@ -218,7 +226,8 @@
         {
             "tag": "WEB",
             "title": "Restaurant Management App",
-            "caption": "Restaurant management application with Vue JS",
+            "caption": "#VueJS, #JsonServer",
+            "modalTitle": "Restaurant management application",
             "description": "Simple and easy Vue JS restaurant management project from scratch. \n\nTechnologies used: Vue JS, Json Server",
             "images": [
                 "/assets/restaurant-app/1.PNG",

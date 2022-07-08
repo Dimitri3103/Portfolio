@@ -1,5 +1,6 @@
 {
     "name": "Nom",
+    "object": "Objet",
     "date_of_birth": "Date de Naissance",
     "birthday": "31 Mars 1998",
     "projects_header": "Projets",
@@ -45,7 +46,8 @@
         {
             "tag": "WEB",
             "title": "Xpense",
-            "caption": "Application web de gestion des notes de frais",
+            "caption": "#ReactJS, #NextJS, #ExpressJS, #CouchDB, #Firebase",
+            "modalTitle": "Xpense - Application web de gestion des notes de frais",
             "description": "Projet de fin d'études FullStack consistant à la conception et à l'implémentation d'une application web destinée aux entreprises souhaitant optimiser la gestion des dépenses et notes de frais de leurs employés et réduire le temps alloué à celle-ci.\n\nTechnologies : BackEnd (Node.JS, Express.JS, Firebase, CouchDB) - FrontEnd (Next.JS,REACT) - Méthode de gestion de projets (KANBAN)",
             "images": [
                 "/assets/xpense/Authentification.png",
@@ -68,7 +70,8 @@
         {
             "tag": "MOBILE",
             "title": "TopTroc",
-            "caption": "Application Mobile d'échange d'objets",
+            "caption": "#Android, #Firebase, #RESTAPI, #Springboot, #Angular",
+            "modalTitle": "TopTroc - Application Mobile d'échange d'objets",
             "description": "Projet académique consistant à la conception et au développement d'une application mobile sous Android permettant à ses utilisateurs de troquer des objets ou des services. \n\nTechnologies : Application Mobile (Android, Firebase, REST Api), Interface d'administration Web (Springboot & Angular).",
             "images": [
                 "/assets/TopTroc/1.PNG",
@@ -96,7 +99,8 @@
         {
             "tag": "WEB",
             "title": "FindLove",
-            "caption": "Application Web de rencontres",
+            "caption": "#Angular, #MongoDB, #ExpressJS, #NodeJS",
+            "modalTitle": "FindLove - Application Web de rencontres",
             "description": "Projet académique FullStack consistant à la conception et au développement d'une application web destinée à aux célibataires désirant faire des rencontres avec d'autres célibataires; Rencontres qui pourront aboutir ou pas à des relations amoureuses! \n\n Technologies : BackEnd (MongoDB, Express.Js, Node.Js) - FrontEnd (Angular)",
             "images": [
                 "/assets/FindLove/1.PNG",
@@ -118,7 +122,8 @@
         {
             "tag": "WEB",
             "title": "E-commerce",
-            "caption": "Plateforme d'E-commerce",
+            "caption": "#PHP, #Javascript, #PHPMailer",
+            "modalTitle": "Plateforme d'E-commerce",
             "description": "Projet scolaire consistant en la conception et le développement d'une plateforme de commerce de smartphonesde smartphones en ligne",
             "images": [
                 "/assets/E_Commerce/1.PNG",
@@ -133,8 +138,9 @@
         },
         {
             "tag": "WEB",
-            "title": "Restaurant",
-            "caption": "Appliaction .NET pour un restaurant en Ligne",
+            "title": "Restaurant En Ligne",
+            "caption": "ASP.NET, #VisualStudio, #CSharp",
+            "modalTitle": "Appliaction .NET pour un restaurant en Ligne",
             "description": "Application Web developpée avec le Framework ASP.NET : \n- Intégration des templates Front; \n- Établissement de la connexion avec la base de données; \n- Établissement d'un système d'authentification. \n\nTechnologies utilisées : ASP.NET, Visual Studio ",
             "images": [
                 "/assets/Restaurant/Accueil.PNG",
@@ -161,7 +167,8 @@
         {
             "tag": "WEB",
             "title": "FastJob",
-            "caption": "Réseau social professionnel",
+            "caption": "#Spring Boot, #SpringSecurity, #SpringData, #MySQL",
+            "modalTitle": "FastJob - Réseau social professionnel",
             "description": "Conception et développement d'un réseau social professionnel tunisien appelé “Fastjob” destiné uniquement aux informaticiens. Il permettra aux utilisateurs de trouver du travail, recruter des employés, ouvrir de nouvelles perspectives d’affaires, ou encore de disposer d’un carnet d’adresses en ligne accessible et à jour. \n\nFastjob devra disposer d’une manière globale des fonctionnalités telles que :\n• Un système d’inscription et d’authentification. \n• Un système de messagerie permettant aux entreprises recruteuses et aux candidats chercheurs d’emploi de discuter en temps réel pour faciliter le processus de recrutement. \n• Un espace candidat qui permettra aux utilisateurs recherchant des emplois de suivre les actualités sur les nouvelles offres et de postuler. \n• Un espace entreprise pour permettre aux recruteurs de gérer les CV, surveiller et contrôler l’ensemble du processus de recrutement mais également mettre en valeur leur société à travers la présentation de ses activités et de ses informations, l’affichage de son logo et le listage de ses annonces. \n\nTechnologies utilisées : Spring Boot, Spring Security, Spring Data, MySQL",
             "images": [
                 "/assets/FastJob/1.png",
@@ -184,7 +191,8 @@
         {
             "tag": "WEB",
             "title": "GENIETEX",
-            "caption": "Progiciel GENIETEX",
+            "caption": "VB.NET, ASP.NET, #VisualStudio, #CSharp",
+            "modalTitle": "Progiciel GENIETEX",
             "description": "Conception et au Développement des modules de gestion de stock et de GMAO (Gestion de la Maintenance Assistée par Ordinateur) pour le Progiciel GENIETEX. \n\nTechnologies utilisées : VB.NET, ASP.NET, Visual Studio",
             "images": [
                 "/assets/GENIETEX/Auth.jpg",
@@ -218,7 +226,8 @@
         {
             "tag": "WEB",
             "title": "Application de gestion de restaurant",
-            "caption": "Application de gestion de restaurant avec Vue JS",
+            "caption": "#VueJS, #JsonServer",
+            "modalTitle": "Application de gestion de restaurant",
             "description": "Projet Vue JS simple et facile from scratch de gestion de restaurant. \n\nTechnologies utilisées : Vue JS, Json Server",
             "images": [
                 "/assets/restaurant-app/1.PNG",
