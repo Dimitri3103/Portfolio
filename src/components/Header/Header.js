@@ -71,7 +71,7 @@ const Header = (props) => {
                         <span className='btn_text'>{t('hire_me')}</span>
                     </CustomButton>
                 </div>
-                <div className='d-flex justify-content-end'>
+                <div>
                     <div className="dropdown">
                         <button className="btn btn-link dropdown-toggle btn_laguage"
                             type="button"
