@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.cdec336e.css",
-    "main.js": "/static/js/main.9d7e5586.js",
+    "main.js": "/static/js/main.e7a1068c.js",
     "static/js/787.aee43d82.chunk.js": "/static/js/787.aee43d82.chunk.js",
-    "static/media/CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf": "/static/media/CV_Resume_Simon_Dimitri_NGOUTOUGA.2e23f13dd9ac6c565d38.pdf",
+    "static/media/CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf": "/static/media/CV_Resume_Simon_Dimitri_NGOUTOUGA.64e602358a8a883e9d8f.pdf",
     "static/media/do.svg": "/static/media/do.3ecb625b75ec64be4376.svg",
     "static/media/rs.svg": "/static/media/rs.9f00a7d8eafa6f593713.svg",
     "static/media/bo.svg": "/static/media/bo.88ba0b0a7e48ec71eca8.svg",
@@ -273,11 +273,11 @@
     "static/media/de.svg": "/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "main.cdec336e.css.map": "/static/css/main.cdec336e.css.map",
-    "main.9d7e5586.js.map": "/static/js/main.9d7e5586.js.map",
+    "main.e7a1068c.js.map": "/static/js/main.e7a1068c.js.map",
     "787.aee43d82.chunk.js.map": "/static/js/787.aee43d82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdec336e.css",
-    "static/js/main.9d7e5586.js"
+    "static/js/main.e7a1068c.js"
   ]
 }
