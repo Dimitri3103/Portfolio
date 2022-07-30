@@ -277,6 +277,14 @@
             "images": [
                 "../../assets/Certifications/PMP.png"
             ]
+        },
+        {
+            "title": "ISTQB",
+            "caption": "International Software Testing Qualifications Board Certification - Foundation Level",
+            "description": "The foundation level of the ISTQB certification contains three modules each with a separate exam and certification: \n- « Certified Tester » : Fundamentals - Testing throughout the software lifecycle - Static techniques - Test design techniques - Management - Testing tools \n - « AGILE Extension » : Specific approach to Agile testing in accordance with the Manifesto - Values ​​and principles of Agile projects - positioning of the tester in the project team \n- « Extension Model Based Testing » : Being finalized",
+            "images": [
+                "/assets/Certifications/ISTQB.jpg"
+            ]
         }
     ],
     "download_cv": "Download CV",

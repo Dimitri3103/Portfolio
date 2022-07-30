@@ -246,7 +246,7 @@
     "certifications": [
         {
             "title": "CCNA 1",
-            "caption": "Cisco Certified Network Associate Routing and Switching 1",
+            "caption": "Routage et commutation Cisco Certified Network Associate1",
             "description": "La formation CISCO CCNA Routing and Switching Niveau 1 est le point de départ pour tous les professionnels amenés à travailler dans le domaine des réseaux. \nElle permet d’acquérir les connaissances et compétences de base pour installer, configurer et vérifier les réseaux locaux IPv4 et IPv6, et identifier les menaces élémentaires pour la sécurité.\nElle passe en revue l’architecture, la structure et les fonctions nécessaires pour prendre en charge aussi bien les opérations des grandes entreprises que celles de petites enseignes innovantes.",
             "images": [
                 "/assets/Certifications/CCNA2.jpg",
@@ -255,7 +255,7 @@
         },
         {
             "title": "CCNA 2",
-            "caption": "Cisco Certified Network Associate Routing and Switching 2",
+            "caption": "Routage et commutation Cisco Certified Network Associate 2",
             "description": "La formation CISCO CCNA Routing and Switching Niveau 2 permet d’acquérir les connaissances et compétences nécessaires pour installer, configurer, et dépanner les infrastructures réseaux d'entreprise. \nElle aborde les topologies redondantes, le dépannage des problèmes réseaux courants, la configuration des protocoles dynamiques de routage associés à l’IPv4 et IPv6, la gestion des périphériques et des services de bases.",
             "images": [
                 "/assets/Certifications/CCNA2.jpg",
@@ -264,7 +264,7 @@
         },
         {
             "title": "TOEIC",
-            "caption": "Test of English for International Communication",
+            "caption": "Test d'anglais pour la communication internationale",
             "description": "Le TOEIC (Test of English for International Communication) est une certification standardisée permettant d'évaluer le niveau d'anglais des locuteurs non anglophones à l'écrit et à l'oral. Ce test, créé et géré par un organisme sis aux États-Unis (l'ETS : Educational Testing Service), vise en particulier à évaluer les connaissances linguistiques du candidat dans un contexte professionnel, sans jamais pour autant entrer dans un jargon technique spécifique.",
             "images": [
                 "/assets/Certifications/TOEIC.jpg"
@@ -272,10 +272,18 @@
         },
         {
             "title": "PMP",
-            "caption": "Project Management Professional",
+            "caption": "Professionnel de la gestion de projet",
             "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute. L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets.",
             "images": [
                 "/assets/Certifications/PMP.png"
+            ]
+        },
+        {
+            "title": "ISTQB",
+            "caption": "Certification du Comité international de qualification du test logiciel - Niveau Fondamental",
+            "description": "Le niveau fondamental de la certification ISTQB contient trois modules avec chacun un examen et une certification distincte : \n- « Testeur Certifié » : Notions fondamentales - Tester tout au long du cycle de vie logiciel - Techniques statiques - Techniques de conception des tests - Gestion des tests - Outils de test \n - « Extension AGILE » : Approche spécifique du test Agile en accord avec le Manifeste - Valeurs et principes des projets Agiles - positionnement du testeur dans l'équipe projet \n- « Extension Model Based Testing » : En cours de Finalisation",
+            "images": [
+                "/assets/Certifications/ISTQB.jpg"
             ]
         }
     ],
