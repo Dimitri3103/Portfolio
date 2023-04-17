@@ -8,7 +8,7 @@ import PersonOutlineOutlinedIcon from '@material-ui/icons/PersonOutlineOutlined'
 import GetAppIcon from '@material-ui/icons/GetApp';
 import TimelineContent from '@material-ui/lab/TimelineContent'
 import TimelineItem from '@material-ui/lab/TimelineItem'
-import MyCV from '../../assets/CV/CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf'
+import MyCV from '../../assets/CV/CV_Simon_Dimitri_NGOUTOUGA_2023.pdf'
 import { useTranslation } from "react-i18next";
 
 const CustomTimelineItem = ({ title, text, link }) => (

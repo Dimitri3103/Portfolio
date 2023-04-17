@@ -16,8 +16,8 @@
     "achievements": "PROJETS REALISÉS",
     "all": "Tous",
     "certifs": "LISTE DES CERTIFICATIONS",
-    "job": "Ingénieur en Systèmes d’Information et Génie Logiciel",
-    "about": "Ingénieur logiciel spécialisé dans la conception, l’implémentation et les tests de logiciels et systèmes informatiques. J'aime travailler en équipe et suis capable d'apprendre et d'appliquer rapidement les nouvelles technologies. Je suis actuellement à la recherche d'un poste à temps plein pour étendre et approfondir mes compétences.",
+    "job": "Ingénieur Informatique spécialisé en Systèmes d’Information et Génie Logiciel",
+    "about": "Ingénieur informatique spécialisé dans la conception, l’implémentation et les tests de logiciels et systèmes informatiques. J'aime travailler en équipe et suis capable d'apprendre et d'appliquer rapidement les nouvelles technologies. Je suis actuellement à la recherche d'un poste à temps plein pour étendre et approfondir mes compétences.",
     "experiences": [
         {
             "title": "Développeur Web Full Stack",
@@ -25,7 +25,7 @@
             "description": "Conception et Implémentation d'une application web de gestion des notes de frais des employés; Notre travail consistait à : \n - Analyser les besoins fonctionnels et rédiger les spécifications techniques relatives à la solution à mettre en place; \n- Établir la Conception de la solution; \n- Implémenter et Déploier la solution."
         },
         {
-            "title": "Technicien Web",
+            "title": "Développeur Logiciel",
             "date": "Media Concept Tunisie | Juillet 2020 - Septembre 2020",
             "description": "Participation à la Conception et au Développement de plusieurs modules relatifs au Progiciel GENIETEX initialement développé par l'entreprise. Notre travail consistait à : \n - Analyser et prendre en main le Progiciel et ses modules déjà mis en place; \n- Implémenter les modules de gestion de stock et de GMAO (Gestion de la Maintenance Assistée par Ordinateur)."
         }

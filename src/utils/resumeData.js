@@ -7,8 +7,8 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 const resumeData = {
     name: "Simon Dimitri NGOUTOUGA",
     email: "ndimitri.ngoutouga1@gmail.com",
-    address: "22 Rue Jbal Bargou Bab Bhar Tunis",
-    phone: "+216 50 119 915",
+    address: "Oyom Abang, Yaoundé",
+    phone: "+237 697 30 05 15",
 
     socials: {
         Facebook: {
