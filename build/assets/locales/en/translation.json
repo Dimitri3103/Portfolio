@@ -21,25 +21,30 @@
     "experiences": [
         {
             "title": "Full Stack Web Developer",
-            "date": "Bulldozer Tunisia | February 2021 - August 2021",
-            "description": "Design and Implementation of a web application for managing employee expense reports; Our work consisted of: \n - Analyzing the functional needs and writing the technical specifications relating to the solution to be implemented; \n- Establishing the Design of the solution; \n- Implement and Deploy the solution."
+            "date": "Bulldozer Tunisia | Tunis, Tunisia | February 2021 - August 2021",
+            "description": "Design and Development of a web application for managing employee expense reports; Our work consisted of: \n - Analyzing the functional needs and writing the technical specifications relating to the solution to be implemented; \n- Establishing the Design of the application; \n- Develop the front and the back of the application; \n-Maintain and fix bugs."
         },
         {
             "title": "Software Developer",
-            "date": "Media Concept Tunisia | July 2020 - September 2020",
+            "date": "Media Concept Tunisia | Tunis, Tunisia | July 2020 - September 2020",
             "description": "Participation in the design and development of several modules relating to the GENIETEX software package initially developed by the company. Our work consisted of: \n - Analyzing and taking control of the software package and its modules already in place; \n- Implementing the inventory management and CMMS (Computer Aided Maintenance Management) modules."
         }
     ],
     "educations": [
         {
             "title": "Engineering Degree in Information Systems and Software Engineering",
-            "date": "Université libre de Tunis | 2018 - 2021",
+            "date": "Université Libre de Tunis | Tunis,Tunisia | 2018 - 2021",
             "description": "Computer engineering, is a discipline that consists in designing, develop and manufacture of computer systems, both from a hardware and software point of view. At the << Université Libre de Tunis >> our course is spread over 6 semesters, three of which are common core, two where each student is required to choose a specialty and the last is dedicated to the end-of-study internship at the end of which the student will obtain his engineering degree."
         },
         {
             "title": "MPES Preparatory Classes (Mathematics, Physics and Engineering Sciences)",
-            "date": "Université libre de Tunis | 2016 - 2018",
+            "date": "Université Libre de Tunis |  Tunis,Tunisia | 2016 - 2018",
             "description": "The preparatory classes, which last two years, allow new baccalaureate holders to prepare for the three years of the engineering cycle."
+        },
+        {
+            "title": "Baccalaureate series C (Mathematics and Physics)",
+            "date": "Saint Benoit Bilingual Catholic College | Yaoundé, Cameroon | 2015",
+            "description": "Baccalaureate obtained with honors"
         }
     ],
     "projects": [
@@ -296,6 +301,7 @@
                 "NEXT JS",
                 "ANGULAR",
                 "VUE JS",
+                "DJANGO",
                 "JavaScript",
                 "TypeScript",
                 "Material UI",
@@ -324,6 +330,8 @@
             "description": [
                 "MySQL",
                 "SQLITE",
+                "SQL Server",
+                "Oracle",
                 "Firebase",
                 "MongoDB",
                 "Apache CouchDB"
@@ -335,13 +343,19 @@
                 "Git",
                 "GitHub",
                 "GitLab",
-                "Docker"
+                "Docker",
+                "Bitbucket",
+                "Jenkins"
             ]
         },
         {
-            "title": "CMS",
+            "title": "SOFT SKILLS",
             "description": [
-                "Wordpress"
+                "Team Work",
+                "Organization",
+                "Communication skilss",
+                "Adaptability",
+                "Autonomy"
             ]
         },
         {

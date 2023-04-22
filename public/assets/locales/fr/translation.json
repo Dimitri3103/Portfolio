@@ -21,25 +21,30 @@
     "experiences": [
         {
             "title": "Développeur Web Full Stack",
-            "date": "Bulldozer Tunisie | Février 2021 - Août 2021",
-            "description": "Conception et Implémentation d'une application web de gestion des notes de frais des employés; Notre travail consistait à : \n - Analyser les besoins fonctionnels et rédiger les spécifications techniques relatives à la solution à mettre en place; \n- Établir la Conception de la solution; \n- Implémenter et Déploier la solution."
+            "date": "Bulldozer | Tunis, Tunisie | Février 2021 - Août 2021",
+            "description": "Conception et Développement d'une application web de gestion des notes de frais des employés; Notre travail consistait à : \n - Analyser les besoins fonctionnels et rédiger les spécifications techniques relatives à l’application à mettre en place; \n- Établir la Conception de la solution; \n- Développer les parties front et back de l’application; \n- Faire la maintenance et les correctifs des bugs; "
         },
         {
             "title": "Développeur Logiciel",
-            "date": "Media Concept Tunisie | Juillet 2020 - Septembre 2020",
+            "date": "Media Concept | Tunis, Tunisie | Juillet 2020 - Septembre 2020",
             "description": "Participation à la Conception et au Développement de plusieurs modules relatifs au Progiciel GENIETEX initialement développé par l'entreprise. Notre travail consistait à : \n - Analyser et prendre en main le Progiciel et ses modules déjà mis en place; \n- Implémenter les modules de gestion de stock et de GMAO (Gestion de la Maintenance Assistée par Ordinateur)."
         }
     ],
     "educations": [
         {
             "title": "Diplôme D'ingénieur En Système D'informations Et Génie Logiciel (SIGL)",
-            "date": "Université libre de Tunis | 2018 - 2021",
+            "date": "Université Libre de Tunis | Tunis, Tunisie | 2018 - 2021",
             "description": "Le génie informatique, ou l'ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, aussi bien d'un point de vue matériels que logiciels. A l’Université Libre de Tunis notre cursus est répartie sur 6 semestres dont trois en tronc commun, deux où chaque étudiant est amené à choisir une spécialité et le dernier est dédié au stage de fin d’études à l’issue duquel l’étudiant obtiendra son diplôme d’ingénieur."
         },
         {
             "title": "Classes Préparatoires MPSI (Mathématiques, Physiques et Sciences de l'Ingénieur)",
-            "date": "Université libre de Tunis | 2016 - 2018",
+            "date": "Université Libre de Tunis | Tunis, Tunisie | 2016 - 2018",
             "description": "Les classes préparatoires dont la durée est de deux ans permettent aux nouveaux bacheliers de se préparer aux trois années du cycle ingénieur."
+        },
+        {
+            "title": "Baccalauréat C (Mathématiques et Sciences Physiques)",
+            "date": "Collège Catholique Bilingue Saint Benoît | Yaoundé, Cameroun | 2015",
+            "description": "Baccalauréat obtenu avec mention Assez-Bien"
         }
     ],
     "projects": [
@@ -296,6 +301,7 @@
                 "NEXT JS",
                 "ANGULAR",
                 "VUE JS",
+                "DJANGO",
                 "JavaScript",
                 "TypeScript",
                 "Material UI",
@@ -324,6 +330,8 @@
             "description": [
                 "MySQL",
                 "SQLITE",
+                "SQL Server",
+                "Oracle",
                 "Firebase",
                 "MongoDB",
                 "Apache CouchDB"
@@ -335,13 +343,19 @@
                 "Git",
                 "GitHub",
                 "GitLab",
-                "Docker"
+                "Docker",
+                "Bitbucket",
+                "Jenkins"
             ]
         },
         {
-            "title": "CMS",
+            "title": "SOFT SKILLS",
             "description": [
-                "Wordpress"
+                "Travail d'équipe",
+                "Organisation",
+                "Sens de la communication",
+                "Capacité d'adaptation",
+                "Autonomie"
             ]
         },
         {

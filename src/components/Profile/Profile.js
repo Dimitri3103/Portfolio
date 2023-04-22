@@ -47,7 +47,7 @@ const Profile = () => {
                 </CustomTimeline>
                 <div className="button_container">
                     <CustomButton icon={<GetAppIcon />}>
-                        <a href={MyCV} download="CV_Resume_Simon_Dimitri_NGOUTOUGA.pdf" >
+                        <a href={MyCV} download="CV_Simon_Dimitri_NGOUTOUGA_2023.pdf" >
                             <span className='btn_text'>{t('download_cv')}</span>
                         </a>
                     </CustomButton>
