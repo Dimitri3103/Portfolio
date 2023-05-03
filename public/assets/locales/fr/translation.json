@@ -276,14 +276,6 @@
             ]
         },
         {
-            "title": "PMP",
-            "caption": "Professionnel de la gestion de projet",
-            "description": "La certification PMP1 est une certification internationale en management de projet. Cette certification est délivrée par le Project Management Institute. L’objectif de cette certification est de pouvoir évaluer formellement les expériences, connaissances et performances des chefs de projet à travers le monde et de faire reconnaître leur profession, comme activité substantielle aux projets.",
-            "images": [
-                "/assets/Certifications/PMP.png"
-            ]
-        },
-        {
             "title": "ISTQB",
             "caption": "Certification du Comité international de qualification du test logiciel - Niveau Fondamental",
             "description": "Le niveau fondamental de la certification ISTQB contient trois modules avec chacun un examen et une certification distincte : \n- « Testeur Certifié » : Notions fondamentales - Tester tout au long du cycle de vie logiciel - Techniques statiques - Techniques de conception des tests - Gestion des tests - Outils de test \n - « Extension AGILE » : Approche spécifique du test Agile en accord avec le Manifeste - Valeurs et principes des projets Agiles - positionnement du testeur dans l'équipe projet \n- « Extension Model Based Testing » : En cours de Finalisation",
